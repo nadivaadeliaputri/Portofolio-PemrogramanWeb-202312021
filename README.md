@@ -4,7 +4,7 @@
 
 Berikut adalah daftar modul praktikum pemrograman web beserta penjelasan singkat dan tautan ke masing-masing folder:
 
-1. [Modul 1 - HTML Dasar](./Modul1-HTMLDasar/)
+1. [Modul 1 - HTML Dasar](./Modul-1-PW/)
    - Berisi tugas-tugas dasar HTML seperti pembuatan struktur halaman web.
 
 2. [Modul 2 - Pengenalan CSS](./Modul2-PengenalanCSS/)
