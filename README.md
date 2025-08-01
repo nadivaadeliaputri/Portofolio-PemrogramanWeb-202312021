@@ -24,3 +24,6 @@ Berikut adalah daftar modul praktikum beserta deskripsi dan tautan ke masing-mas
 
 7. [Modul 7 - Git & GitHub](./Modul-7-PW/)
    - Fokus pada penggunaan Git untuk version control dan kolaborasi proyek di GitHub.
+
+LINK YT
+https://youtu.be/AyDvx2_bGIs?si=sC2dRAfwxYarXRIA
