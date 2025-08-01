@@ -7,10 +7,10 @@ Berikut adalah daftar modul praktikum pemrograman web beserta penjelasan singkat
 1. [Modul 1 - HTML Dasar](./Modul-1-PW/)
    - Berisi tugas-tugas dasar HTML seperti pembuatan struktur halaman web.
 
-2. [Modul 2 - Pengenalan CSS](./Modul2-PengenalanCSS/)
+2. [Modul 2 - Pengenalan CSS](./Modul-2-PW/)
    - Berisi tugas-tugas pengenalan CSS untuk styling halaman web.
 
-3. [Modul 3 - Bootstrap](./Modul3-Bootstrap/)
+3. [Modul 3 - Bootstrap](./Modul-3-PW/)
    - Memahami Bootstrap sebagai framework CSS.
 
 4. [Modul 4 - Dasar JavaScript](./Modul4-DasarJavaScript/)
