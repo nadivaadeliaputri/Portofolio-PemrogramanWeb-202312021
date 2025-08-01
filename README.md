@@ -25,6 +25,3 @@ Berikut adalah daftar modul praktikum pemrograman web beserta penjelasan singkat
 7. [Modul 7 - Git & GitHub](./Modul7-GitGitHub/)
    - Berfokus pada penggunaan Git dan GitHub untuk version control.
 
-
-
-Kalau kamu mau, aku bisa bantu cek dan generate link otomatis jika kamu beri nama-nama foldernya secara lengkap. Mau dibantu sampai situ juga?
