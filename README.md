@@ -1,24 +1,30 @@
-# Portofolio-PemrogramanWeb-202312021
+# 📘 Portofolio-PemrogramanWeb-202312021
 
-📚 Daftar Modul Praktikum Pemrograman Web
+## 📑 Daftar Isi
 
-🔹 Modul 1 - HTML Dasar
-Berisi tugas-tugas dasar HTML seperti pembuatan struktur halaman web.
+Berikut adalah daftar modul praktikum pemrograman web beserta penjelasan singkat dan tautan ke masing-masing folder:
 
-🔹 Modul 2 - Pengenalan CSS
-Berisi tugas-tugas pengenalan CSS untuk styling halaman web.
+1. [Modul 1 - HTML Dasar](./Modul1-HTMLDasar/)
+   - Berisi tugas-tugas dasar HTML seperti pembuatan struktur halaman web.
 
-🔹 Modul 3 - Bootstrap
-Memahami Bootstrap sebagai framework CSS.
+2. [Modul 2 - Pengenalan CSS](./Modul2-PengenalanCSS/)
+   - Berisi tugas-tugas pengenalan CSS untuk styling halaman web.
 
-🔹 Modul 4 - Dasar JavaScript
-Berisi tugas-tugas dasar JavaScript untuk fungsionalitas web.
+3. [Modul 3 - Bootstrap](./Modul3-Bootstrap/)
+   - Memahami Bootstrap sebagai framework CSS.
 
-🔹 Modul 5 - Dasar-dasar PHP
-Mengenal dan memahami bentuk dasar skrip dan variabel PHP.
+4. [Modul 4 - Dasar JavaScript](./Modul4-DasarJavaScript/)
+   - Berisi tugas-tugas dasar JavaScript untuk fungsionalitas web.
 
-🔹 Modul 6 - PHP dan MySQL
-Berisi tugas penanganan event dan validasi form menggunakan PHP dan MySQL.
+5. [Modul 5 - Dasar-dasar PHP](./Modul5-DasarPHP/)
+   - Mengenal dan memahami bentuk dasar skrip dan variabel PHP.
 
-🔹 Modul 7 - Git & GitHub
-Berfokus pada penggunaan Git dan GitHub untuk version control.
+6. [Modul 6 - PHP dan MySQL](./Modul6-PHPMySQL/)
+   - Berisi tugas penanganan event dan validasi form menggunakan PHP dan MySQL.
+
+7. [Modul 7 - Git & GitHub](./Modul7-GitGitHub/)
+   - Berfokus pada penggunaan Git dan GitHub untuk version control.
+
+
+
+Kalau kamu mau, aku bisa bantu cek dan generate link otomatis jika kamu beri nama-nama foldernya secara lengkap. Mau dibantu sampai situ juga?
